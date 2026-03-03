@@ -37,4 +37,10 @@ int num = sc.nextInt();
 
 
     }
+
 }
+
+
+
+
+//swithday
