@@ -45,7 +45,10 @@ int num = sc.nextInt();
 
 ////switch
 
+//not necessary
+
 //switchday
 //switchday
+
 
 
